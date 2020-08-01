@@ -25,7 +25,7 @@ Further information about the dataset can be found in the following webpages:
 [MNIST - Tensorflow Datasets](https://www.tensorflow.org/datasets/catalog/mnist)  
 
 Some examples of the digits are shown below.
-![MNIST](https://storage.googleapis.com/tfds-data/visualization/mnist-3.0.1.png)
+![MNIST](./assets/MNIST.png)
 
 ## Fashion MNIST
 The *Fashion-MNIST* dataset contains 70,000 labeled article images. Each image is a 28×28 grayscale image, associated with a label from 10 classes, these classes are listed below.
@@ -49,4 +49,4 @@ Further information about the dataset can be found in the following webpages:
 [Fashion MNIST - Tensorflow Datasets](https://www.tensorflow.org/datasets/catalog/fashion_mnist)  
 
 Some examples of the images are shown below.
-![FashionMNIST](https://storage.googleapis.com/tfds-data/visualization/fashion_mnist-3.0.1.png)
+![FashionMNIST](./assets/FashionMNIST.png)
