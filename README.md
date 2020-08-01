@@ -26,27 +26,3 @@ Further information about the dataset can be found in the following webpages:
 
 Some examples of the digits are shown below.
 ![MNIST](./assets/MNIST.png)
-
-## Fashion MNIST
-The *Fashion-MNIST* dataset contains 70,000 labeled article images. Each image is a 28×28 grayscale image, associated with a label from 10 classes, these classes are listed below.
-
-|Class|Label|
-|:---:|:----|
-|0|T-shirt/top|
-|1|Trouser|
-|2|Pullover|
-|3|Dress|
-|4|Coat|
-|5|Sandal|
-|6|Shirt|
-|7|Sneaker|
-|8|Bag|
-|9|Ankle boot|
-
-Further information about the dataset can be found in the following webpages:  
-[Fashion MNIST - Kaggle](https://www.kaggle.com/zalando-research/fashionmnist)  
-[Fashion MNIST - Zalando Research](https://research.zalando.com/welcome/mission/research-projects/fashion-mnist/)  
-[Fashion MNIST - Tensorflow Datasets](https://www.tensorflow.org/datasets/catalog/fashion_mnist)  
-
-Some examples of the images are shown below.
-![FashionMNIST](./assets/FashionMNIST.png)
