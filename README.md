@@ -1,8 +1,10 @@
-# MNIST &amp; Fashion MNIST
-The current repository contains a common task within the scope of Computer Vision field, Image Detection, such as:
+# Computer Vision - MNIST
+The current repository contains a common task within the scope of Computer Vision field: Image Detection. Other similar projects can be found in the following repositories:
 
-- MNIST
-- Fashion MNIST
+- [Fashion MNIST](https://github.com/UribeAlejandro/ComputerVision_FashionMNIST)
+- [CIFAR10](https://github.com/UribeAlejandro/ComputerVision_CIFAR10)
+- [Cats vs Dogs](https://github.com/UribeAlejandro/ComputerVision_Cats_vs_Dogs)
+- [Rock Paper &amp; Scissors](https://github.com/UribeAlejandro/ComputerVision_Rock_Paper_or_Scissors)
 
 The MNIST is a useful for those who want to try learning techniques and pattern recognition methods on real-world data.
 
